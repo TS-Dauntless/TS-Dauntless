@@ -2,7 +2,7 @@
 - 👀 I’m interested in dveloping Moderate console based projects
 - 🌱 I’m currently learning B.Sc Computer Science
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ...
+- 📫 Email - tsdats.work@gmail.com, Insta id - TS_Dauntless
 
 <!---
 TS-Dauntless/TS-Dauntless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
